@@ -1,0 +1,8 @@
+C:\Users\Scott\Source\repos\CookieClicker\bin\Release\CookieClicker.exe.config
+C:\Users\Scott\Source\repos\CookieClicker\bin\Release\CookieClicker.exe
+C:\Users\Scott\Source\repos\CookieClicker\bin\Release\CookieClicker.pdb
+C:\Users\Scott\Source\repos\CookieClicker\obj\Release\CookieClicker.frmCookieClicker.resources
+C:\Users\Scott\Source\repos\CookieClicker\obj\Release\CookieClicker.Properties.Resources.resources
+C:\Users\Scott\Source\repos\CookieClicker\obj\Release\CookieClicker.csproj.GenerateResource.cache
+C:\Users\Scott\Source\repos\CookieClicker\obj\Release\CookieClicker.exe
+C:\Users\Scott\Source\repos\CookieClicker\obj\Release\CookieClicker.pdb
